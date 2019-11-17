@@ -1,6 +1,6 @@
 ﻿/* cyrillic-ext */
 @font-face {
-  font-family: 'Raleway', 'Open Sans';
+  font-family: 'Raleway', 'Open Sans'; 
   font-style: italic;
   font-weight: 300;
   src: local('Open Sans Light Italic'), local('OpenSans-LightItalic'), url(https://fonts.gstatic.com/s/opensans/v17/memnYaGs126MiZpBA-UFUKWyV9hmIqOjjg.woff2) format('woff2');
