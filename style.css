@@ -5,7 +5,7 @@
   font-weight: 300;
   src: local('Raleway Light Italic'), local('OpenSans-LightItalic'), url(https://fonts.gstatic.com/s/opensans/v17/memnYaGs126MiZpBA-UFUKWyV9hmIqOjjg.woff2) format('woff2');
   unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
-}
+} 
 /* cyrillic */
 @font-face {
   font-family: 'Raleway', 'Open Sans';
