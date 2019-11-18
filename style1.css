@@ -230,7 +230,7 @@ nav {
     nav .link-wrap div {
       padding: 12px 20px;
       font-size: 12pt;
-      cursor: pointer;
+      cursor: none;
       transition: color .5s;
       text-transform: uppercase; }
       nav .link-wrap div:first-child {
